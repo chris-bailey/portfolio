@@ -30,4 +30,4 @@ To run this project locally, follow these steps:
 5. Open your browser and navigate to `http://localhost:3000`.
 
 ## Credits
-This portfolio site was inspired by [Lee Robinson's](https://leerob.io/) minimalistic yet content-rich portfolio site.
+This portfolio site was inspired by [Lee Robinson's](https://leerob.io/) minimalistic yet content-rich portfolio website.
