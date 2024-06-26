@@ -76,7 +76,7 @@ export default function HomePage() {
           achievements={[
             "Developed custom CI/CD pipeline for one-click deployments, transforming bi-weekly releases into continuous deployments, resulting in faster releases, quicker bug fixes, and 99%+ uptime.",
             "Led a one-week transition from a third-party library to an open-source solution, including investigation, design, coding, testing, and deployment, saving over $20K annually in licensing fees.",
-            "Achieved an 800% reduction in AWS OpenSearch costs by leading a strategy involving infrastructure optimization and precise usage monitoring, cutting annual expenses from $19,500 to $2,500.",
+            "Optimized AWS OpenSearch infrastructure, cutting annual expenses from $19,500 to $2,500.",
             "Cut AWS EC2 monthly spending by 500% through strategic consolidations and performance optimizations."
           ]}
           technologies="Java, Spring, Python, Vue.js, React.js, AWS (Lambda, EC2, S3, RDS, SQS), Docker, OpenSearch, and many more..."
