@@ -7,7 +7,7 @@ export default function HomePage() {
   return (
     <section>
       <div className="flex items-center justify-between">
-        <h1 className="text-2xl font-medium tracking-tighter">Hi, I'm Chris Bailey 😊</h1>
+        <h1 className="text-2xl font-medium tracking-tighter">Hi, I'm Chris Bailey</h1>
         <div className="relative h-20 w-20 ml-4">
           <Link href="https://www.linkedin.com/in/chris-bailey-dev" target="_blank" rel="noopener noreferrer">
             <Image
