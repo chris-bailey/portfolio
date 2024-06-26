@@ -180,7 +180,7 @@ export default function HomePage() {
             It provides developers with a practical example of implementing microservices in real-world scenarios, focusing on principles like dynamic service discovery, centralized configuration, resilience, and message-driven architecture.
           </p>
           <p className="prose prose-neutral dark:prose-invert mt-4">
-            <strong>Technologies:</strong> Spring Boot, Spring Cloud, Spring WebFlux, Docker, Java, Kotlin, Apache Kafka, Spring Cloud Gateway, Spring Cloud Netflix Eureka, Google JIB, GraphQL, Lombok, Mockito, Testcontainers, Resilience4J, OpenFeign, PostgreSQL, MongoDB, Spring Web, Spring Data JPA, Apache ZooKeeper, Docker Compose, Zipkin, Prometheus, Grafana, Next.js, React.js, Tailwind CSS
+            <strong>Technologies:</strong> Spring Boot, Spring Cloud, Spring WebFlux, Docker, Kubernetes, Java, Kotlin, Apache Kafka, Spring Cloud Gateway, Spring Cloud Netflix Eureka, Google JIB, GraphQL, Lombok, Mockito, Testcontainers, Resilience4J, OpenFeign, PostgreSQL, MongoDB, Spring Web, Spring Data JPA, Apache ZooKeeper, Zipkin, Prometheus, Grafana, Next.js, React.js, Tailwind CSS
           </p>
           <Link href="https://github.com/chris-bailey/spring-microservices-bookstore-demo" className="inline-block mt-4 px-6 py-2 text-white bg-blue-600 rounded-full hover:bg-blue-700" target="_blank" rel="noopener noreferrer">
             View on GitHub
@@ -326,9 +326,10 @@ export default function HomePage() {
           <h3 className="text-xl font-semibold mb-4">DevOps Tools</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div><strong>Docker:</strong> Containerization platform</div>
+            <div><strong>Kubernetes:</strong> Container orchestration platform</div>
             <div><strong>Jenkins:</strong> Continuous integration server</div>
-            <div><strong>Artifactory:</strong> Artifact repository manager</div>
             <div><strong>Terraform:</strong> Infrastructure as code</div>
+            <div><strong>Artifactory:</strong> Artifact repository manager</div>
             <div><strong>GitHub:</strong> Source code management</div>
           </div>
         </div>
@@ -430,10 +431,10 @@ export default function HomePage() {
       <div className="mt-16">
         <h2 id="contact" className="text-2xl font-medium tracking-tight mb-4">Contact</h2>
         <p className="prose prose-neutral dark:prose-invert mb-4">
-          Feel free to reach out to me: <strong>chris.bailey.developer</strong> 'AT' <strong>gmail.com</strong>.
+          Feel free to reach out to me: <strong>chris.bailey.developer</strong> @ <strong>gmail.com</strong>
         </p>
         <p className="prose prose-neutral dark:prose-invert">
-          Please replace the 'AT' above with the @ character.
+          Please remove the spaces around the '@' character.
         </p>
         <p className="prose prose-neutral dark:prose-invert mb-10">
           This is my <em>incredibly advanced</em> anti-spam technique!
